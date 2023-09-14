@@ -1,0 +1,5 @@
+baseURL = 'https://zothsu.dev/'
+languageCode = 'en-us'
+title = 'Zothsu Portfolio'
+
+theme = 'ananke' 
